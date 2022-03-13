@@ -5,7 +5,7 @@
  <p>👨🏻‍💻 Explorando e desenvolvendo meu conhecimento em novas tecnologias.</p>
  <p>🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.</p>
  <p>💼 Trabalho atualmente como Desenvolvedora Júnior.</p>
- <p> 📍  São Paulo - Brasil.</p>
+ <p>🌎 São Paulo - Brasil.</p>
 
 <br>
 
